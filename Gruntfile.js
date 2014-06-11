@@ -37,7 +37,7 @@ module.exports = function (grunt) {
       pages: {
         options: {
           remote:'https://github.com/power9/power9.github.io.git',
-          branch: 'gh-pages'
+          branch: 'try2'
         }
       }
     },
